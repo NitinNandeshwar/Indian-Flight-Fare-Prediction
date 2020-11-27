@@ -4,4 +4,4 @@
 
 ## Introduction:
 
-In this Project, Flight fare is predicted using Kaggle Dataset of Indian Route Flights.There using RandomForest we are getting accuracy of 80%.
+In this Project, Flight fare is predicted using Kaggle Dataset of Indian Route Flights.Here i have used RandomForest and I am getting accuracy of 80%.
